@@ -2,7 +2,7 @@
 
 ## Projekt interfejsu użytkownika aplikacji rekrutacyjnej (HTML, CSS).
 
-Grupy studentów przygotowują interfejs aplikacji internetowej przy pomocy języka HTML oraz _stylów kaskadowych_ CSS. 
+Grupy studentów przygotowują interfejs aplikacji internetowej przy pomocy _języka HTML_ oraz _stylów kaskadowych CSS_. 
 Zajęcia są realizowane w [Szkole Wyższej im. Pawła Włodkowica w Płocku](hiperłącze) na przedmiocie Komunikacja człowiek-komputer. 
 Zajęcia realizowane są metoda praktyczną, z wykorzystaniem najnowszych narzędzi, zgodnie z mottem, którego autorem jest 
 znany pedagog Jahn Dewey:
