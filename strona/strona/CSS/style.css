@@ -15,7 +15,9 @@ body{
 	margin-top: 20px;
 }
 #polozenie {
-	position: relative; left: 0px; top: -70px;
+	position: absolute; 
+	left: 210px; 
+	top: -4px;
 }
 
 .ramka div{
